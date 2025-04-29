@@ -1,6 +1,6 @@
-projectKey=hotel-management
-serverUrl=http://35.183.30.75:9000
+projectKey=hotel-app-freestyle-project
+serverUrl=http://3.90.251.235:9000
 serverVersion=7.8.0.26217
-dashboardUrl=http://35.183.30.75:9000/dashboard?id=hotel-management
-ceTaskId=AYiIUhlYmcKSZ5LgsNrB
-ceTaskUrl=http://35.183.30.75:9000/api/ce/task?id=AYiIUhlYmcKSZ5LgsNrB
+dashboardUrl=http://3.90.251.235:9000/dashboard?id=hotel-app-freestyle-project
+ceTaskId=AZZ_DTSJsP3xJGmJErjj
+ceTaskUrl=http://3.90.251.235:9000/api/ce/task?id=AZZ_DTSJsP3xJGmJErjj

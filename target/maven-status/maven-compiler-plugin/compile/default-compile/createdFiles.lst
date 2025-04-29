@@ -3,13 +3,13 @@ com/hotel/entities/Message.class
 com/hotel/entities/UserFeedback.class
 com/hotel/servlet/BookingData.class
 com/hotel/dao/PaymentDao.class
-com/hotel/servlet/PaymentServlet.class
 com/hotel/entities/RoomsCategory.class
-com/hotel/servlet/LoginBookingReceiptServlet.class
+com/hotel/servlet/PaymentServlet.class
 com/hotel/entities/Guest.class
+com/hotel/servlet/LoginBookingReceiptServlet.class
 com/hotel/servlet/UserFeedbackServlet.class
-com/hotel/servlet/CancelBookingServlet.class
 com/hotel/entities/BookingDetails.class
+com/hotel/servlet/CancelBookingServlet.class
 com/hotel/entities/CancelledBooking.class
 com/hotel/servlet/ForgotPasswordServlet.class
 com/hotel/dao/CancelledBookingDao.class
